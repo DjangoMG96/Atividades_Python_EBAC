@@ -203,7 +203,6 @@ https://www.postgresql.org/
 ### Por baixa do capo:
 
 - Usei a metodologia CRISP-DM para reconhecimento, tratamento, aplicação, teste e desenvolvimento desse projeto que preve a renda de clientes da base de dados de um banco. Depois criei uma interface com o usuario no 'Streamlit' para adicionar um novo cliente, prever a renda com base no motor criado no notbook abaixo, oferecer o melhor crédito com base no seu score e ainda confirmar ou não a operação.
-  
-![O que é CRISP-DM?](https://www.datascience-pm.com/crisp-dm-2/)
-![Link do Notbook com o código](https://github.com/DjangoMG96/Atividades_Python_EBAC/blob/main/Projeto02_Previsao_de_Renda/Projeto2_Previs%C3%A3o_de_Renda.ipynb)
+
+* ![Link do Notbook com o código](https://github.com/DjangoMG96/Atividades_Python_EBAC/blob/main/Projeto02_Previsao_de_Renda/Projeto2_Previs%C3%A3o_de_Renda.ipynb)
 
