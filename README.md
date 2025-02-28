@@ -9,7 +9,7 @@
 ![badge](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![badge](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=Python)
 
-### Meu Progresso nos Estudos 📚: 48% do curso finalizado
+### Meu Progresso nos Estudos 📚: 50% do curso finalizado
 
 - [x] **Módulo 1 - Perspectivas de Carreira**
 - [x] **Módulo 2 - Metodologia**
@@ -27,9 +27,9 @@
 - [x] **Módulo 13 - Regressão II**
 - [x] **Módulo 14 - Scripting**
 - [x] **Módulo 15 - Streamlit I**
-- [x] **Módulo 16 - TdD IV - Pandas avançado** 🚀 (Módulo Atual)
-- [ ] Módulo 17 - Árvores II (Parte II: árvore de classificação)
-- [ ] Módulo 18 - Regressão Logística I
+- [x] **Módulo 16 - TdD IV - Pandas avançado** 🚀 
+- [x] Módulo 17 - Árvores II (Parte II: árvore de classificação)
+- [ ] Módulo 18 - Regressão Logística I (Módulo Atual)
 - [ ] Módulo 19 - Streamlit II
 - [ ] Módulo 20 - Markdown / Terminal
 - [ ] Módulo 21 - TdD V - SQL
