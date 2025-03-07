@@ -206,3 +206,12 @@ https://www.postgresql.org/
 
 * ![Link do Notbook com o código](https://github.com/DjangoMG96/Atividades_Python_EBAC/blob/main/Projeto02_Previsao_de_Renda/Projeto2_Previs%C3%A3o_de_Renda.ipynb)
 
+## Demonstração da Atividade 1 "MOD19 - Streamlit II"
+
+![Demonstração "Brasileirão 2023"](https://github.com/DjangoMG96/Atividades_Python_EBAC/blob/main/Mod19Tarefa1%20-%20GIF%20-%20Streamlit_II.gif)
+
+### Por baixa do capo:
+
+- Usei a ferramenta Streamlit para desmonstrar uma aplicação no DataSet Brasileirão 2023.
+
+* ![Link do Notbook com o código](https://github.com/DjangoMG96/Atividades_Python_EBAC/blob/main/Mod19Tarefa1%20-%20Streamlit_II.ipynb)
