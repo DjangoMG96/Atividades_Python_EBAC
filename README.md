@@ -9,7 +9,7 @@
 ![badge](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![badge](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=Python)
 
-### Meu Progresso nos Estudos 📚: 56% do curso finalizado - 70h Concluidas
+### Meu Progresso nos Estudos 📚: 82% do curso finalizado - 70h Concluidas
 
 - [x] **Módulo 1 - Perspectivas de Carreira**
 - [x] **Módulo 2 - Metodologia**
@@ -32,13 +32,13 @@
 - [x] Módulo 18 - Regressão Logística I 
 - [x] Módulo 19 - Streamlit II
 - [x] Módulo 20 - Markdown / Terminal
-- [ ] Módulo 21 - TdD V - SQL (Módulo Atual)
-- [ ] Módulo 22 - Descritiva III - Gráficos interativos - Plotly
-- [ ] Módulo 23 - Combinação de modelos I
-- [ ] Módulo 24 - Combinação de modelos II
-- [ ] Módulo 25 - Cálculo
-- [ ] Módulo 26 - Algelin
-- [ ] Módulo 27 - PCA
+- [X] Módulo 21 - TdD V - SQL (Módulo Atual)
+- [X] Módulo 22 - Descritiva III - Gráficos interativos - Plotly
+- [X] Módulo 23 - Combinação de modelos I
+- [X] Módulo 24 - Combinação de modelos II
+- [X] Módulo 25 - Cálculo
+- [X] Módulo 26 - Algelin
+- [X] Módulo 27 - PCA
 - [ ] Módulo 28 - Streamlit III, IV
 - [ ] Módulo 29 - K-means
 - [ ] Módulo 30 - Hierárquicos / aglomerativos
